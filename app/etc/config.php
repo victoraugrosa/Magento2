@@ -263,6 +263,7 @@ return [
         'Magento_PaypalReCaptcha' => 1,
         'MSP_TwoFactorAuth' => 1,
         'Magenteiro_AdminController' => 1,
+        'Magenteiro_Javascript' => 1,
         'Magenteiro_PrimeiroModulo' => 1,
         'Magenteiro_Observers' => 1,
         'Magenteiro_MinhaPreferencia' => 1,
